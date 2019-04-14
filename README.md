@@ -8,3 +8,7 @@ A collection of repositories from the course Python
 [Assignment 3](https://github.com/cba-dat-sem4-python-group/Assignment-3)  
 [Assignment 4](https://github.com/cba-dat-sem4-python-group/Assignment-4)  
 [Assignment 5](https://github.com/cba-dat-sem4-python-group/Assignment-5)  
+[Assignment 6](https://github.com/cba-dat-sem4-python-group/Assignment-6)  
+[Assignment 7](https://github.com/cba-dat-sem4-python-group/Assignment-7)  
+[Assignment 8](https://github.com/cba-dat-sem4-python-group/Assignment-8)  
+[Assignment 9](https://github.com/cba-dat-sem4-python-group/Assignment-9)  
